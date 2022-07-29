@@ -1,7 +1,5 @@
 development version does not use
 
-version de développement ne pas utiliser
-
 ### Introduction
 ------------
 **FOS-Streaming-installers** -- Free IPTV panel for streaming video content
@@ -19,7 +17,7 @@ https://github.com/zgelici/FOS-Streaming-v1
 ------------
 - login with a shell client(example putty.exe)
 ```sh
-- bash <(curl -L -Ss https://raw.githubusercontent.com/andykimpe/FOS-Streaming-installers/master/install.sh)
+- bash <(curl -L -Ss https://raw.githubusercontent.com/OwElko/FOS-Streaming-installers/master/install.sh)
 ```
 - **[BACKEND]** Go to the website and login with username: admin and password: admin
 
@@ -103,7 +101,5 @@ reserves the right to change the license of future releases.
 
 
 Donations are **greatly appreciated!**
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "Tyfix ")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6ATJFKYPFY65W "Donate")
 
 
